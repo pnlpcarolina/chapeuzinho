@@ -5,5 +5,9 @@ Considero aqui uma forma de organizar o que já aprendi e fidelizei o conhecimen
 - Número inteiros, float e strings
 - Variáveis
 - Condicionais
-- 
+- List comprehension
+- Zip
+- Enumerate
+- Map
+- Reduce
 
